@@ -1,2 +1,3 @@
 google.com, pub-1547240854311637, DIRECT, f08c47fec0942fa0
 media.net, 8CU95C28Z, DIRECT
+openx.com, 551075235, DIRECT, 6a698e2ec38604c6
